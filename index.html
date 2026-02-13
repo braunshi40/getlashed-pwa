@@ -5,11 +5,16 @@
   <title>Get Lashed</title>
 
   <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#5f6773">
-
-  <meta http-equiv="refresh" content="0; url=https://getlashedrotorua.com">
+  <meta name="theme-color" content="#7b8796">
 </head>
+
 <body>
-  Redirecting…
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("./service-worker.js");
+    }
+    window.location.replace("https://getlashedrotorua.com");
+  </script>
 </body>
 </html>
+
