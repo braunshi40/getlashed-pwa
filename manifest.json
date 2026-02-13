@@ -10,44 +10,15 @@
   "start_url": "/",
   "theme_color": "#7b8796",
   "icons": [
-    {
-      "src": "https://getlashedrotorua.com/assets/images/image02.jpg?v=61adb311",
-      "type": "image/jpeg",
-      "sizes": "151x151",
-      "isSquare": true,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": true,
-      "width": 151,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
-    },
-    {
-      "src": "https://getlashedrotorua.com/assets/images/image03.jpg?v=61adb311",
-      "type": "image/jpeg",
-      "sizes": "307x307",
-      "isSquare": true,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": true,
-      "width": 307,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
-    },
-    {
-      "src": "https://getlashedrotorua.com/assets/images/share.jpg?v=f15cda1e",
-      "type": "image/jpeg",
-      "sizes": "315x315",
-      "isSquare": true,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": true,
-      "width": 315,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
-    }
-  ]
-}
+  {
+    "src": "android/android-launchericon-192-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "android/android-launchericon-512-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
+
