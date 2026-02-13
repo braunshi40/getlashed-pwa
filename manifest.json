@@ -1,0 +1,53 @@
+{
+  "background_color": "#ffffff",
+  "description": "Eyelash Extensions",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Get Lashed",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Get Lashed",
+  "start_url": "/",
+  "theme_color": "#7b8796",
+  "icons": [
+    {
+      "src": "https://getlashedrotorua.com/assets/images/image02.jpg?v=61adb311",
+      "type": "image/jpeg",
+      "sizes": "151x151",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 151,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://getlashedrotorua.com/assets/images/image03.jpg?v=61adb311",
+      "type": "image/jpeg",
+      "sizes": "307x307",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 307,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://getlashedrotorua.com/assets/images/share.jpg?v=f15cda1e",
+      "type": "image/jpeg",
+      "sizes": "315x315",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 315,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
